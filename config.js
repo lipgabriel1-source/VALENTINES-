@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '🥹', '😛', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -86,4 +86,5 @@ const CONFIG = {
 };
 
 // Don't modify anything below this line unless you know what you're doing
+
 window.VALENTINE_CONFIG = CONFIG; 
