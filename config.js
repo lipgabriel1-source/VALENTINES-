@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "I LOVE YOU SO MCUH ,I WANT TO GIVE YOU BIG KISS AND A LOOONG HUG",
+        message: "I LOVE YOU SO MCUH ,I WANT TO GIVE YOU BIG KISS AND JUST BE WITH YOU FOREVER",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -88,4 +88,5 @@ const CONFIG = {
 // Don't modify anything below this line unless you know what you're doing
 
 window.VALENTINE_CONFIG = CONFIG; 
+
 
